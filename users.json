@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nom": "Imaghri",
+    "prenom": "Soukaina",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "nom": "Elaboubi",
+    "prenom": "Ihssan",
+    "age": 30
+  },
+  {
+    "id": 3,
+    "nom": "Ouakrim",
+    "prenom": "Maria",
+    "age": 19
+  },
+  {
+    "nom": "Imaghri",
+    "prenom": "Soukaina",
+    "age": 22,
+    "id": 4
+  },
+  {
+    "nom": "Sabiq",
+    "prenom": "Nouhayla",
+    "age": 12,
+    "id": 5
+  },
+  {
+    "nom": "ouakrim",
+    "prenom": "ali",
+    "age": 10,
+    "id": 6
+  },
+  {
+    "nom": "IMAGHRI",
+    "prenom": "mohmed",
+    "age": 35,
+    "id": 7
+  }
+]
